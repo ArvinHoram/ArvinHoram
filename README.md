@@ -3,14 +3,16 @@
 <!--
 **ArvinHoram/ArvinHoram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Im learning to become an **AI ENGINEER**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  What I m learning 
+python
+git&github
+FastApi
+LLM API and RAG
+
+## MY GOAL
+Build real AI products, not just study theory.
+
+
+email: arvin.ahmadi.coder.970@gmail.com
